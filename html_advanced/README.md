@@ -1,13 +1,13 @@
-# Project Title
+# PURE HTML ADVANCED WITH NO CSS 
 
-A clear and concise description of what the project is. 
+This is a html project that focuses on html elements from scratch, basic and finally to advanced.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+For this first project, you will focus on the HTML structure only - no CSS, no style - just pure HTML semantic.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+For this project to fully run thoroughly you need to have figma and fig file installed, - feel free to create an account to access the final result of the project.
 
 
